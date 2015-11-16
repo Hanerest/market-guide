@@ -28,4 +28,4 @@ Packages required:
 - [Yahoo-finance](https://pypi.python.org/pypi/yahoo-finance/1.2.1)
 
 ## Credits
-Inspired by J.P.Morgan Asset Management [Guide to the Markets](https://www.jpmorganfunds.com/cm/Satellite?UserFriendlyURL=diguidetomarkets&pagename=jpmfVanityWrapper) and [Financial Analysis in Python)(https://github.com/twiecki/financial-analysis-python-tutorial)
+Inspired by J.P.Morgan Asset Management [Guide to the Markets](https://www.jpmorganfunds.com/cm/Satellite?UserFriendlyURL=diguidetomarkets&pagename=jpmfVanityWrapper) and [Financial Analysis in Python](https://github.com/twiecki/financial-analysis-python-tutorial)
