@@ -1,8 +1,8 @@
 # Market Guide by Hanerest
-A programmable guide to the financial markets developed by [Hanerest](http://hanerest.com)
+An open-source programmable guide to the financial markets developed by [Hanerest](http://hanerest.com)
 
 ## What is it for?
-This is a interactive and programmable guide to financial markets written in Python. It is presented in the format of [iPython Notebook] (http://ipython.org/notebook.html), an interactive computational environment that allows you to obtain, process and visualize data in real time. This notebook primarily does three jobs: 1) Obtain financial and economic data from third-party databases; 2) Process data; 3) Output and visualize data. You can use and modify the code on this notebook to performance research and analysis on financial markets and perform tasks including:
+This is an open-source interactive and programmable guide to financial markets written in Python. It is presented in the format of [iPython Notebook] (http://ipython.org/notebook.html), an interactive computational environment that allows you to obtain, process and visualize data in real time. This notebook primarily does three jobs: 1) Obtain financial and economic data from third-party databases; 2) Process data; 3) Output and visualize data. You can use and modify the code on this notebook to performance research and analysis on financial markets and perform tasks including:
 - Calculating the correlation between different assets
 - Compare the returns and variance of a group of securities
 - Plot the stock market returns in log scale 
