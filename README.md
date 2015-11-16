@@ -8,7 +8,7 @@ This is an open-source interactive and programmable guide to financial markets w
 - Plot the stock market returns in log scale 
 - And more...
 
-## Development Status
+## Outline
 This notebook is still under development and more data and analysis is being added regularly. Currently, the content of this notebook includes:
 - Equities: Market Performance, Corporate Financials, Returns and valuation by styles/sectors, Volatility, Interest rate and equities
 - Economy: Economic Growth, Consumer Finance
@@ -28,4 +28,4 @@ Packages required:
 - [Yahoo-finance](https://pypi.python.org/pypi/yahoo-finance/1.2.1)
 
 ## Credits
-Inspired by J.P.Morgan Asset Management [Guide to the Markets](https://www.jpmorganfunds.com/cm/Satellite?UserFriendlyURL=diguidetomarkets&pagename=jpmfVanityWrapper). 
+Inspired by J.P.Morgan Asset Management [Guide to the Markets](https://www.jpmorganfunds.com/cm/Satellite?UserFriendlyURL=diguidetomarkets&pagename=jpmfVanityWrapper) and [Financial Analysis in Python)(https://github.com/twiecki/financial-analysis-python-tutorial)
